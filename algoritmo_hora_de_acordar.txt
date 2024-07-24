@@ -13,7 +13,7 @@ INICIO
     3. Se o alarme do relogio toca;
         1. Abro os olhos;
         2. Me levanto;
-        3. Vou até o relogio;
+        3. Vou ate o relogio;
         4. Desarmo o alarme;
         5. Começo meu dia;
 FIM
