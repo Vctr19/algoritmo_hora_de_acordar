@@ -1,0 +1,19 @@
+INICIO
+    1. Escuto o ambiente;
+    2. Se o alarme do relogio nao esta tocando;
+        1. Abro os olhos;
+        2. Checo a hora no relogio;
+        3. Se muito cedo;
+            1. Continuo deitado;
+        4. Se proximo ao horario de me levantar;
+            1. Me levanto;
+            3. Vou ate o relogio;
+            4. Desarmo o alarme;
+            5. Comeco meu dia;
+    3. Se o alarme do relogio toca;
+        1. Abro os olhos;
+        2. Me levanto;
+        3. Vou até o relogio;
+        4. Desarmo o alarme;
+        5. Começo meu dia;
+FIM
